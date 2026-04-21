@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Base styles / CSS resets can go here */
+body {
+  font-family: 'Inter', sans-serif; /* Fallback for safe typography, assuming Google fonts will be loaded or exist natively */
+  background-color: #f7f9fc; /* A subtle white-grey background based on Figma */
+}
